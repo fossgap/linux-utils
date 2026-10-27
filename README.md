@@ -1,4 +1,8 @@
-# linux-utils
+<p align="center">
+  <img src="assets/logo.svg" width="128" height="128" alt="linux-utils logo: a padlock representing full-disk encryption">
+</p>
+
+<h1 align="center">linux-utils</h1>
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Shell](https://img.shields.io/badge/shell-bash-green.svg)]()
